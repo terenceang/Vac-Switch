@@ -35,6 +35,9 @@ void setup() {
 	pinMode(SSR, OUTPUT);
 	pinMode(modeSwitch, INPUT_PULLUP);
 	digitalWrite(modeSwitch, HIGH);
+
+	pinMode(LED_BUILTIN, OUTPUT);
+	digitalWrite(LED_BUILTIN, LOW);
 }
 
 uint16_t ctValue = 0;
