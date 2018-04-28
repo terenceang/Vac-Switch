@@ -1,12 +1,12 @@
 /****************************************************************
-* VacuumSwitch.ino
+* Vac Switch.ino
 *
 * Author : Terence Ang
 *
 * Firmware for Auto Vacuum Switch.
 *
-* This code is Partsware; send me any useful unsed parts if
-* you've found our code helpful.
+* This code is Partsware; send me any useful unused parts if
+* you've find my code helpful.
 *
 * Distributed as-is; no warranty is given.
 ***************************************************************/
