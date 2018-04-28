@@ -24,7 +24,7 @@ int currentValue = 0;
 int currentDLY = 0;
 bool ssrState = false;
 
-#define DEBUG
+//#define DEBUG
 
 // the setup routine runs once when you press reset:
 void setup() {
